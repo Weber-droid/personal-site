@@ -1,0 +1,17 @@
+body {
+    background-image: url(hi.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form {
+    text-align: center;
+}
+
+#uname:hover {
+    color: red;
+}
+
+#pword:hover {
+    color: green;
+}
